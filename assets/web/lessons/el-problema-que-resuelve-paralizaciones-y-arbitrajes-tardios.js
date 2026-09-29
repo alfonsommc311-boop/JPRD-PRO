@@ -1,0 +1,34 @@
+Lesson.start({
+  id: 'el-problema-que-resuelve-paralizaciones-y-arbitrajes-tardios', area: 'La JPRD en 10 minutos', areaIcon: '⚖️', icon: '⚖️',
+  title: 'El problema que resuelve: paralizaciones y arbitrajes tardíos',
+  subtitle: 'Las obras públicas se paralizan o se retrasan con frecuencia por controversias sin resolver, y llevarlas a un arbitraje al…',
+  norma: 'Verificar la norma vigente y el expediente técnico aprobado.',
+  intro: '<p>Las obras públicas se paralizan o se retrasan con frecuencia por controversias sin resolver, y llevarlas a un arbitraje al final de la obra encarece y alarga todo. La JPRD nace para resolver a tiempo lo que en obra no puede esperar.</p>',
+  sections: [
+    { h: 'Ideas clave', html: '<ul><li>Una controversia sin respuesta oportuna suele traducirse en obra detenida, personal ocioso, maquinaria parada y costos que siguen corriendo.</li><li>El arbitraje tradicional llega, por lo general, meses o años después del hecho: la obra ya terminó o se degradó, y la prueba se debilita.</li><li>Cuando la discusión se acumula, el contratista puede sentir que financia la obra con su propio capital y la entidad percibe que pierde control del plazo.</li><li>La Junta acorta esa brecha: una decisión o recomendación en el momento en que el hecho es verificable en campo.</li><li>Resolver a tiempo protege la finalidad pública: que la obra se termine y sirva a la población.</li><li>La mayor o menor rapidez del procedimiento depende de las reglas aplicables. Verificar la norma vigente y el expediente técnico aprobado.</li></ul>' },
+    { h: 'Cómo aplicarlo', html: '<ol><li>Identificar en tu obra los puntos donde una discusión podría detener trabajos: interferencias, terreno, adicionales.</li><li>Estimar el costo diario de una paralización con datos reales del proyecto (personal, equipo, gastos generales).</li><li>Comparar ese costo con el tiempo que tomaría esperar una solución al final de la obra.</li><li>Documentar cada hecho conflictivo en el cuaderno de obra el mismo día en que ocurre.</li><li>Consultar en las reglas de la Junta desde cuándo y cómo se puede acudir a ella.</li></ol>' },
+    { h: 'Errores comunes', html: '<ul><li>Dejar que las diferencias se acumulen esperando que se resuelvan solas: se agravan y se encarecen.</li><li>Documentar los hechos días o semanas después, cuando ya no es posible verificarlos.</li><li>Pensar que la Junta evita todo arbitraje: solo ofrece una vía más temprana; lo que ocurra después depende de las reglas.</li><li>Ignorar el costo real de la demora al decidir si conviene plantear el tema.</li></ul>' },
+    { h: 'Ejemplo', html: '<p>En una obra vial (cifras ilustrativas: S/ 30 millones, 14 meses), el terreno de un tramo llega tarde y el contratista mantiene cuadrilla y equipo esperando. Sin una vía rápida, ambas partes cruzan cartas por meses y el tema se traslada a un arbitraje posterior, cuando el tramo ya se construyó. Con Junta instalada, el hecho se plantea mientras aún se puede constatar el estado del frente de trabajo y se obtiene un criterio para reorganizar la programación. No se garantiza el sentido de ninguna decisión: eso depende de los hechos y del contrato.</p>' },
+    { h: 'Practica', html: '<p>Elige una paralización real o hipotética de una obra y calcula, con cifras ilustrativas, cuánto cuesta cada semana de espera. Luego escribe qué información necesitarías tener en el cuaderno de obra para plantearla a tiempo.</p>' }
+  ],
+  keypoints: [
+    'Una controversia sin respuesta oportuna suele traducirse en obra detenida, personal ocioso, maquinaria parada y costos que siguen corriendo.',
+    'El arbitraje tradicional llega, por lo general, meses o años después del hecho: la obra ya terminó o se degradó, y la prueba se debilita.',
+    'Cuando la discusión se acumula, el contratista puede sentir que financia la obra con su propio capital y la entidad percibe que pierde control del plazo.',
+    'La Junta acorta esa brecha: una decisión o recomendación en el momento en que el hecho es verificable en campo.',
+    'Resolver a tiempo protege la finalidad pública: que la obra se termine y sirva a la población.',
+    'La mayor o menor rapidez del procedimiento depende de las reglas aplicables. Verificar la norma vigente y el expediente técnico aprobado.'
+  ],
+  flashcards: [
+    { q: '¿Qué debilita al arbitraje tardío como solución para conflictos de obra?', a: 'Que la prueba de campo se degrada con el tiempo. Cuando el conflicto se resuelve mucho después, el frente de trabajo ya cambió y la prueba se debilita.' },
+    { q: '¿Por qué conviene documentar el hecho el mismo día en el cuaderno de obra?', a: 'Porque conserva evidencia verificable cuando el hecho ocurre. El registro inmediato preserva la prueba; no asegura resultados, pero fortalece cualquier planteamiento.' },
+    { q: '¿Cuál es un primer paso al aplicar «El problema que resuelve: paralizaciones y arbitrajes tardíos»?', a: 'Identificar en tu obra los puntos donde una discusión podría detener trabajos: interferencias, terreno, adicionales.' },
+    { q: '¿Qué error común conviene evitar en «El problema que resuelve: paralizaciones y arbitrajes tardíos»?', a: 'Dejar que las diferencias se acumulen esperando que se resuelvan solas: se agravan y se encarecen.' },
+    { q: 'Una idea clave de «El problema que resuelve: paralizaciones y arbitrajes tardíos»', a: 'Una controversia sin respuesta oportuna suele traducirse en obra detenida, personal ocioso, maquinaria parada y costos que siguen corriendo.' }
+  ],
+  quiz: [
+    { q: '¿Qué debilita al arbitraje tardío como solución para conflictos de obra?', opts: ['Que la prueba de campo se degrada con el tiempo', 'Que es gratuito', 'Que solo lo usan contratistas', 'Que impide terminar el contrato'], correct: 0, why: 'Cuando el conflicto se resuelve mucho después, el frente de trabajo ya cambió y la prueba se debilita.' },
+    { q: '¿Por qué conviene documentar el hecho el mismo día en el cuaderno de obra?', opts: ['Porque lo exige el diseño estructural', 'Porque lo hace más barato', 'Porque evita toda disputa', 'Porque conserva evidencia verificable cuando el hecho ocurre'], correct: 3, why: 'El registro inmediato preserva la prueba; no asegura resultados, pero fortalece cualquier planteamiento.' },
+    { q: '¿Cuál de estas conductas es un error que conviene evitar según «El problema que resuelve: paralizaciones y arbitrajes tardíos»?', opts: ['Identificar en tu obra los puntos donde una discusión podría detener trabajos', 'Estimar el costo diario de una paralización con datos reales del proyecto (personal, equipo, gastos generales)', 'Documentar los hechos días o semanas después, cuando ya no es posible verificarlos', 'Comparar ese costo con el tiempo que tomaría esperar una solución al final de la obra'], correct: 2, why: 'Es un error frecuente: Documentar los hechos días o semanas después, cuando ya no es posible verificarlos.' }
+  ]
+});

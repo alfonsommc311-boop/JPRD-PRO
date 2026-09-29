@@ -1,0 +1,34 @@
+Lesson.start({
+  id: 'como-se-prepara-y-conduce-una-audiencia', area: 'Procedimiento ante la Junta', areaIcon: '🏛️', icon: '🏛️',
+  title: 'Cómo se prepara y conduce una audiencia',
+  subtitle: 'La audiencia es el espacio donde la Junta escucha a las partes, aclara puntos técnicos y ordena la prueba.',
+  norma: 'Verificar la norma vigente y el expediente técnico aprobado.',
+  intro: '<p>La audiencia es el espacio donde la Junta escucha a las partes, aclara puntos técnicos y ordena la prueba. Prepararla con guion, roles y documentos a la mano permite aprovechar un tiempo que suele ser limitado.</p>',
+  sections: [
+    { h: 'Ideas clave', html: '<ul><li>La Junta define la forma de la audiencia de acuerdo con sus reglas y el contrato; puede ser presencial, en obra o virtual. Confirmar convocatoria, hora y participantes con anticipación.</li><li>Cada parte debe decidir quién habla de qué: el residente o el supervisor para hechos de obra, el especialista para metrados y cronograma, el abogado para el marco contractual.</li><li>Un guion breve con tres o cuatro mensajes centrales evita divagar; los detalles se sustentan con anexos ya presentados.</li><li>Las preguntas de la Junta son una oportunidad para aclarar, no un ataque; responder con precisión y reconocer lo que no se sabe es mejor que improvisar.</li><li>Los documentos clave (cuaderno de obra, cronograma vigente, valorizaciones, planos) deben estar ordenados y ubicables en segundos.</li><li>Se debe levantar acta o registro de lo tratado; revisar que refleje fielmente los acuerdos y las precisiones sobre la prueba.</li><li>Verificar la norma vigente y el expediente técnico aprobado.</li></ul>' },
+    { h: 'Cómo aplicarlo', html: '<ol><li>Confirmar convocatoria, modalidad, agenda y reglas de intervención con la Junta.</li><li>Designar voceros y asignar temas a cada uno según su especialidad.</li><li>Preparar un guion de mensajes centrales y una carpeta de consulta rápida.</li><li>Ensayar las respuestas a las preguntas técnicas más probables, incluyendo las que favorecen a la contraparte.</li><li>Durante la audiencia, tomar nota de compromisos, pedidos de información y plazos otorgados.</li><li>Revisar el acta o registro posterior y observar por escrito cualquier inexactitud.</li></ol>' },
+    { h: 'Errores comunes', html: '<ul><li>Llegar sin haber unificado la versión interna: reunirse antes y resolver discrepancias entre residente, especialista y asesor.</li><li>Leer extensos escritos en lugar de exponer: sintetizar y remitir a los anexos.</li><li>Interrumpir a la contraparte o a la Junta: pedir la palabra y respetar los turnos.</li><li>No registrar los compromisos asumidos: designar a una persona que tome nota.</li></ul>' },
+    { h: 'Ejemplo', html: '<p>En una audiencia sobre una ampliación de plazo en un colegio (monto ilustrativo: S/ 6,5 millones), la Junta convoca a ambas partes a una sesión de dos horas. El contratista lleva al residente para explicar la secuencia de trabajos y a un planificador para mostrar el cronograma vigente. La entidad lleva al supervisor. La Junta pide precisar qué partida estaba en ruta crítica; el planificador responde con el cronograma actualizado y se compromete a entregar la versión editable dentro del plazo que fije la Junta. Cifras y plazos son ilustrativos.</p>' },
+    { h: 'Practica', html: '<p>Prepara un guion de cinco minutos para exponer una disputa ficticia sobre valorizaciones: tres mensajes centrales, documentos de respaldo y dos preguntas difíciles que anticipas.</p>' }
+  ],
+  keypoints: [
+    'La Junta define la forma de la audiencia de acuerdo con sus reglas y el contrato; puede ser presencial, en obra o virtual. Confirmar convocatoria, hora y participantes con anticipación.',
+    'Cada parte debe decidir quién habla de qué: el residente o el supervisor para hechos de obra, el especialista para metrados y cronograma, el abogado para el marco contractual.',
+    'Un guion breve con tres o cuatro mensajes centrales evita divagar; los detalles se sustentan con anexos ya presentados.',
+    'Las preguntas de la Junta son una oportunidad para aclarar, no un ataque; responder con precisión y reconocer lo que no se sabe es mejor que improvisar.',
+    'Los documentos clave (cuaderno de obra, cronograma vigente, valorizaciones, planos) deben estar ordenados y ubicables en segundos.',
+    'Se debe levantar acta o registro de lo tratado; revisar que refleje fielmente los acuerdos y las precisiones sobre la prueba.'
+  ],
+  flashcards: [
+    { q: '¿Qué conviene hacer cuando la Junta formula una pregunta técnica que no se domina?', a: 'Aclarar lo que se sabe, reconocer lo que no y ofrecer completar por escrito. La precisión y la honestidad son más útiles que una respuesta improvisada que luego pueda contradecirse.' },
+    { q: '¿Para qué sirve el guion de mensajes centrales?', a: 'Para mantener foco y no divagar. Ordena la exposición y deja el detalle a los anexos ya presentados.' },
+    { q: '¿Cuál es un primer paso al aplicar «Cómo se prepara y conduce una audiencia»?', a: 'Confirmar convocatoria, modalidad, agenda y reglas de intervención con la Junta.' },
+    { q: '¿Qué error común conviene evitar en «Cómo se prepara y conduce una audiencia»?', a: 'Llegar sin haber unificado la versión interna: reunirse antes y resolver discrepancias entre residente, especialista y asesor.' },
+    { q: 'Una idea clave de «Cómo se prepara y conduce una audiencia»', a: 'La Junta define la forma de la audiencia de acuerdo con sus reglas y el contrato; puede ser presencial, en obra o virtual. Confirmar convocatoria, hora y participantes con anticipación.' }
+  ],
+  quiz: [
+    { q: '¿Qué conviene hacer cuando la Junta formula una pregunta técnica que no se domina?', opts: ['Improvisar una respuesta firme', 'Cambiar de tema', 'Aclarar lo que se sabe, reconocer lo que no y ofrecer completar por escrito', 'Negarse a responder'], correct: 2, why: 'La precisión y la honestidad son más útiles que una respuesta improvisada que luego pueda contradecirse.' },
+    { q: '¿Para qué sirve el guion de mensajes centrales?', opts: ['Para reemplazar los anexos', 'Para mantener foco y no divagar', 'Para extender el tiempo de la audiencia', 'Para evitar las preguntas de la Junta'], correct: 1, why: 'Ordena la exposición y deja el detalle a los anexos ya presentados.' },
+    { q: '¿Cuál de estas conductas es un error que conviene evitar según «Cómo se prepara y conduce una audiencia»?', opts: ['Confirmar convocatoria, modalidad, agenda y reglas de intervención con la Junta', 'Designar voceros y asignar temas a cada uno según su especialidad', 'Interrumpir a la contraparte o a la Junta', 'Preparar un guion de mensajes centrales y una carpeta de consulta rápida'], correct: 2, why: 'Es un error frecuente: Interrumpir a la contraparte o a la Junta: pedir la palabra y respetar los turnos.' }
+  ]
+});

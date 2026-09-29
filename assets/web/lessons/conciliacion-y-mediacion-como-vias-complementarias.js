@@ -1,0 +1,34 @@
+Lesson.start({
+  id: 'conciliacion-y-mediacion-como-vias-complementarias', area: 'Sustento legal y estrategia', areaIcon: '✍️', icon: '✍️',
+  title: 'Conciliación y mediación como vías complementarias',
+  subtitle: 'La conciliación y la mediación son vías complementarias a la Junta: buscan un acuerdo asistido por un tercero.',
+  norma: 'Verificar la norma vigente y el expediente técnico aprobado.',
+  intro: '<p>La conciliación y la mediación son vías complementarias a la Junta: buscan un acuerdo asistido por un tercero. Conocer su lugar en el sistema permite escoger el momento y el foro adecuados, siempre según la normativa y el contrato.</p>',
+  sections: [
+    { h: 'Ideas clave', html: '<ul><li>La conciliación y la mediación se apoyan en la voluntad de las partes de llegar a un acuerdo, con la ayuda de un tercero neutral que facilita el diálogo, sin imponer decisión.</li><li>La Junta puede formular recomendaciones o decisiones según su tipo y el contrato; la conciliación, en cambio, se centra en el acuerdo. Son vías distintas que pueden combinarse.</li><li>En contratación pública, la conciliación y el arbitraje tienen reglas y plazos propios fijados por la normativa vigente; conviene verificarlos antes de actuar.</li><li>Un acuerdo conciliatorio debe ser claro y ejecutable: qué se acuerda, quién cumple, en qué plazo y qué pasa si no se cumple.</li><li>Las entidades pueden tener requisitos internos de aprobación y sustento para conciliar; el negociador debe conocerlos.</li><li>La confidencialidad de lo dicho en una mediación o conciliación protege la sinceridad del diálogo. Verificar la norma vigente y el expediente técnico aprobado.</li></ul>' },
+    { h: 'Cómo aplicarlo', html: '<ol><li>Evaluar si la controversia es susceptible de acuerdo y si la vía conciliatoria está disponible según el contrato y la normativa.</li><li>Verificar plazos que puedan correr o suspenderse al iniciar una vía u otra.</li><li>Preparar una propuesta con sustento técnico y económico, con rangos aceptables.</li><li>Elegir un facilitador o centro reconocido y confirmar sus reglas y costos.</li><li>Participar con apertura, tomando notas de los compromisos.</li><li>Formalizar el acuerdo y coordinar su cumplimiento y su reflejo en cronograma, valorizaciones o liquidación.</li></ol>' },
+    { h: 'Errores comunes', html: '<ul><li>Asumir que conciliar suspende todos los plazos: verifica qué dice la norma vigente.</li><li>Ir sin facultades para decidir: pierde tiempo; confirma quién puede comprometer a cada parte.</li><li>Firmar acuerdos ambiguos: generan nuevas disputas; detalla obligaciones y fechas.</li><li>Divulgar lo hablado en la sesión: rompe la confianza; respeta la confidencialidad.</li></ul>' },
+    { h: 'Ejemplo', html: '<p>Ejemplo ilustrativo: tras una decisión parcial de la Junta sobre mayores gastos generales, las partes conservan una diferencia sobre el monto de un adicional (monto ilustrativo). Deciden acudir a una conciliación. Antes, el contratista verifica en el contrato y en la normativa los plazos aplicables; la entidad, por su parte, revisa qué sustento interno necesita para conciliar. En la sesión, con ayuda del conciliador, ajustan metrados y acuerdan un monto y un cronograma de pago. El acta detalla obligaciones, plazos y consecuencias.</p>' },
+    { h: 'Practica', html: '<p>Redacta un cuadro comparativo de dos columnas: Junta y conciliación. Anota para cada una quién decide, qué produce, qué plazos deberías verificar y en qué tipo de controversia la elegirías. Indica qué fuente consultarías para confirmar cada dato.</p>' }
+  ],
+  keypoints: [
+    'La conciliación y la mediación se apoyan en la voluntad de las partes de llegar a un acuerdo, con la ayuda de un tercero neutral que facilita el diálogo, sin imponer decisión.',
+    'La Junta puede formular recomendaciones o decisiones según su tipo y el contrato; la conciliación, en cambio, se centra en el acuerdo. Son vías distintas que pueden combinarse.',
+    'En contratación pública, la conciliación y el arbitraje tienen reglas y plazos propios fijados por la normativa vigente; conviene verificarlos antes de actuar.',
+    'Un acuerdo conciliatorio debe ser claro y ejecutable: qué se acuerda, quién cumple, en qué plazo y qué pasa si no se cumple.',
+    'Las entidades pueden tener requisitos internos de aprobación y sustento para conciliar; el negociador debe conocerlos.',
+    'La confidencialidad de lo dicho en una mediación o conciliación protege la sinceridad del diálogo. Verificar la norma vigente y el expediente técnico aprobado.'
+  ],
+  flashcards: [
+    { q: 'En la conciliación, el tercero neutral…', a: 'Facilita el diálogo para que las partes acuerden. La conciliación se basa en un acuerdo voluntario, con facilitación.' },
+    { q: 'Antes de acudir a una vía complementaria conviene…', a: 'Verificar plazos y reglas en la normativa vigente y el contrato. Los plazos y efectos dependen de la norma vigente y del contrato.' },
+    { q: '¿Cuál es un primer paso al aplicar «Conciliación y mediación como vías complementarias»?', a: 'Evaluar si la controversia es susceptible de acuerdo y si la vía conciliatoria está disponible según el contrato y la normativa.' },
+    { q: '¿Qué error común conviene evitar en «Conciliación y mediación como vías complementarias»?', a: 'Asumir que conciliar suspende todos los plazos: verifica qué dice la norma vigente.' },
+    { q: 'Una idea clave de «Conciliación y mediación como vías complementarias»', a: 'La conciliación y la mediación se apoyan en la voluntad de las partes de llegar a un acuerdo, con la ayuda de un tercero neutral que facilita el diálogo, sin imponer decisión.' }
+  ],
+  quiz: [
+    { q: 'En la conciliación, el tercero neutral…', opts: ['Impone una decisión obligatoria', 'Facilita el diálogo para que las partes acuerden', 'Reemplaza al supervisor', 'Fija penalidades'], correct: 1, why: 'La conciliación se basa en un acuerdo voluntario, con facilitación.' },
+    { q: 'Antes de acudir a una vía complementaria conviene…', opts: ['Ignorar los plazos del contrato', 'Confiar en que todos los plazos se suspenden', 'Firmar sin sustento técnico', 'Verificar plazos y reglas en la normativa vigente y el contrato'], correct: 3, why: 'Los plazos y efectos dependen de la norma vigente y del contrato.' },
+    { q: '¿Cuál de estas conductas es un error que conviene evitar según «Conciliación y mediación como vías complementarias»?', opts: ['Evaluar si la controversia es susceptible de acuerdo y si la vía conciliatoria está disponible según el contrato y la normativa', 'Verificar plazos que puedan correr o suspenderse al iniciar una vía u otra', 'Preparar una propuesta con sustento técnico y económico, con rangos aceptables', 'Asumir que conciliar suspende todos los plazos'], correct: 3, why: 'Es un error frecuente: Asumir que conciliar suspende todos los plazos: verifica qué dice la norma vigente.' }
+  ]
+});

@@ -1,0 +1,34 @@
+Lesson.start({
+  id: 'visita-tecnica-e-inspeccion-de-obra', area: 'Procedimiento ante la Junta', areaIcon: '🏛️', icon: '🏛️',
+  title: 'Visita técnica e inspección de obra',
+  subtitle: 'La visita técnica permite a la Junta ver por sí misma el estado de la obra, contrastar lo alegado con lo construido y…',
+  norma: 'Verificar la norma vigente y el expediente técnico aprobado.',
+  intro: '<p>La visita técnica permite a la Junta ver por sí misma el estado de la obra, contrastar lo alegado con lo construido y comprender el contexto físico de la controversia. Requiere coordinación, seguridad y un registro claro de lo observado.</p>',
+  sections: [
+    { h: 'Ideas clave', html: '<ul><li>La Junta puede disponer una inspección de obra cuando el reglamento o el contrato lo permiten; conviene verificar quién la convoca, con qué aviso y quién asiste.</li><li>El objetivo no es rehacer la supervisión, sino observar puntos concretos vinculados a la disputa: frentes de trabajo, interferencias, calidad de partidas o accesos.</li><li>Ambas partes deben tener oportunidad de asistir y de señalar lo que consideren relevante, para preservar el debido proceso.</li><li>La seguridad manda: equipo de protección, inducción y acompañamiento del residente o del personal designado son condiciones previas al ingreso.</li><li>El registro de la visita (acta, fotografías fechadas, croquis, mediciones) se incorpora al expediente y debe ser aceptado o al menos conocido por ambas partes.</li><li>Es útil preparar un recorrido con estaciones numeradas que coincidan con los anexos de las partes, para que la Junta relacione lo visto con la prueba.</li><li>Verificar la norma vigente y el expediente técnico aprobado.</li></ul>' },
+    { h: 'Cómo aplicarlo', html: '<ol><li>Coordinar fecha, hora, ruta y participantes con la Junta y con la contraparte.</li><li>Preparar una lista de puntos a mostrar, con referencia a planos, metrados y anexos.</li><li>Asegurar equipos de seguridad, accesos y personal de apoyo para el recorrido.</li><li>Acompañar a la Junta siguiendo la ruta acordada, sin adelantar juicios sobre el fondo.</li><li>Tomar registro fotográfico y de mediciones que coincida con el de la contraparte, si se acuerda.</li><li>Firmar el acta de la visita solo tras revisarla y dejar constancia de discrepancias.</li></ol>' },
+    { h: 'Errores comunes', html: '<ul><li>Improvisar el recorrido: elaborar una ruta y un orden lógico antes de la visita.</li><li>Modificar el estado de la obra antes de la inspección para mejorar la impresión: puede afectar la credibilidad y las consecuencias contractuales; documentar el estado real.</li><li>Conversar con la Junta sin la contraparte presente: mantener la comunicación abierta a ambos.</li><li>No dejar constancia por escrito de lo observado: siempre levantar acta.</li></ul>' },
+    { h: 'Ejemplo', html: '<p>Una disputa gira en torno a interferencias con una red de agua en una obra de pavimentación (monto ilustrativo: S/ 9 millones). La Junta programa una visita técnica. El residente propone tres estaciones: el punto de la tubería, el frente afectado y el acceso al almacén. El supervisor acompaña por la entidad. Se toman fotos fechadas, una medición de la profundidad de la tubería y un croquis. El acta registra lo observado y la posición de cada parte sobre su significado, sin resolver aún la controversia. Cifras ilustrativas.</p>' },
+    { h: 'Practica', html: '<p>Diseña una ruta de visita con cuatro estaciones para una disputa sobre calidad de concreto en cimentación. Indica qué documento del expediente respalda cada estación y qué riesgos de seguridad debes prever.</p>' }
+  ],
+  keypoints: [
+    'La Junta puede disponer una inspección de obra cuando el reglamento o el contrato lo permiten; conviene verificar quién la convoca, con qué aviso y quién asiste.',
+    'El objetivo no es rehacer la supervisión, sino observar puntos concretos vinculados a la disputa: frentes de trabajo, interferencias, calidad de partidas o accesos.',
+    'Ambas partes deben tener oportunidad de asistir y de señalar lo que consideren relevante, para preservar el debido proceso.',
+    'La seguridad manda: equipo de protección, inducción y acompañamiento del residente o del personal designado son condiciones previas al ingreso.',
+    'El registro de la visita (acta, fotografías fechadas, croquis, mediciones) se incorpora al expediente y debe ser aceptado o al menos conocido por ambas partes.',
+    'Es útil preparar un recorrido con estaciones numeradas que coincidan con los anexos de las partes, para que la Junta relacione lo visto con la prueba.'
+  ],
+  flashcards: [
+    { q: '¿Cuál es el propósito principal de una visita técnica de la Junta?', a: 'Contrastar lo alegado con la realidad física de la obra. La Junta busca comprender el contexto físico y verificar puntos concretos de la controversia.' },
+    { q: '¿Qué se recomienda respecto del estado de la obra antes de la inspección?', a: 'Dejarlo tal cual y documentarlo. Alterar el estado real puede restar credibilidad; lo prudente es documentar lo existente.' },
+    { q: '¿Cuál es un primer paso al aplicar «Visita técnica e inspección de obra»?', a: 'Coordinar fecha, hora, ruta y participantes con la Junta y con la contraparte.' },
+    { q: '¿Qué error común conviene evitar en «Visita técnica e inspección de obra»?', a: 'Improvisar el recorrido: elaborar una ruta y un orden lógico antes de la visita.' },
+    { q: 'Una idea clave de «Visita técnica e inspección de obra»', a: 'La Junta puede disponer una inspección de obra cuando el reglamento o el contrato lo permiten; conviene verificar quién la convoca, con qué aviso y quién asiste.' }
+  ],
+  quiz: [
+    { q: '¿Cuál es el propósito principal de una visita técnica de la Junta?', opts: ['Reemplazar al supervisor', 'Sancionar al contratista', 'Aprobar valorizaciones', 'Contrastar lo alegado con la realidad física de la obra'], correct: 3, why: 'La Junta busca comprender el contexto físico y verificar puntos concretos de la controversia.' },
+    { q: '¿Qué se recomienda respecto del estado de la obra antes de la inspección?', opts: ['Dejarlo tal cual y documentarlo', 'Ordenarlo para causar buena impresión', 'Retirar los materiales en discusión', 'Suspender el trabajo un mes'], correct: 0, why: 'Alterar el estado real puede restar credibilidad; lo prudente es documentar lo existente.' },
+    { q: '¿Cuál de estas conductas es un error que conviene evitar según «Visita técnica e inspección de obra»?', opts: ['Coordinar fecha, hora, ruta y participantes con la Junta y con la contraparte', 'Preparar una lista de puntos a mostrar, con referencia a planos, metrados y anexos', 'Asegurar equipos de seguridad, accesos y personal de apoyo para el recorrido', 'No dejar constancia por escrito de lo observado'], correct: 3, why: 'Es un error frecuente: No dejar constancia por escrito de lo observado: siempre levantar acta.' }
+  ]
+});

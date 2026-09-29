@@ -1,0 +1,25 @@
+name: jprd_pro
+description: "JPRD PRO - previene y resuelve disputas en obra publica y forma al profesional que la Junta requiere, sin internet."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ^3.3.0
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_inappwebview: ^6.0.0
+  flutter_tts: ^4.0.2
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/web/
+    - assets/web/assets/
+    - assets/web/lessons/
+flutter_launcher_icons:
+  android: true
+  image_path: assets/icon/icon.png
+flutter_native_splash:
+  color: "#1e1b4b"

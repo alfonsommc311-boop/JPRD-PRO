@@ -1,0 +1,34 @@
+Lesson.start({
+  id: 'el-cuaderno-de-obra-como-prueba-viva', area: 'Prevenir antes de disputar', areaIcon: '🛡️', icon: '🛡️',
+  title: 'El cuaderno de obra como prueba viva',
+  subtitle: 'El cuaderno de obra es el registro oficial y cronológico de lo que ocurre en la ejecución.',
+  norma: 'Verificar la norma vigente y el expediente técnico aprobado.',
+  intro: '<p>El cuaderno de obra es el registro oficial y cronológico de lo que ocurre en la ejecución. Bien llevado, fija hechos, instrucciones y reservas en el momento en que suceden, y puede ser la prueba más creíble ante la Junta.</p>',
+  sections: [
+    { h: 'Ideas clave', html: '<ul><li>El cuaderno recoge hechos relevantes, instrucciones, consultas, respuestas y ocurrencias; su valor probatorio depende de que las anotaciones sean oportunas, claras y firmadas por quienes corresponde.</li><li>Cada anotación debe indicar fecha, hecho concreto, partida o frente afectado, causa cuando se conoce y consecuencia esperada en plazo o costo.</li><li>Las anotaciones que afectan el plazo, como lluvias, interferencias o falta de terreno, deben hacerse el día del hecho y repetirse mientras dure el impacto.</li><li>Las discrepancias y reservas deben quedar registradas de inmediato; callar en el cuaderno puede leerse luego como conformidad.</li><li>Quién puede anotar, quién firma y cómo se abre y cierra el cuaderno lo definen la Ley de Contrataciones Públicas y su Reglamento vigentes y el contrato de obra.</li><li>Las fotografías, los planos y los ensayos referidos en una anotación fortalecen el registro, pero no lo reemplazan.</li><li>Verificar la norma vigente y el expediente técnico aprobado.</li></ul>' },
+    { h: 'Cómo aplicarlo', html: '<ol><li>Redactar cada anotación con el orden: qué ocurrió, dónde, cuándo, quién, por qué y qué efecto tiene.</li><li>Indicar de forma expresa si el hecho afecta ruta crítica, costo, calidad o seguridad.</li><li>Registrar las consultas al proyectista o a la entidad con número y fecha, y anotar cuándo se responden.</li><li>Dejar constancia de reservas o desacuerdos el mismo día, sin adjetivos ni juicios personales.</li><li>Referenciar los anexos, como fotografías, actas o ensayos, en la misma anotación.</li><li>Revisar semanalmente que no haya vacíos de fechas ni anotaciones sin cierre.</li></ol>' },
+    { h: 'Errores comunes', html: '<ul><li>Anotar días después de los hechos; se evita registrando el mismo día.</li><li>Usar frases genéricas como hubo demoras; se evita precisando causa, duración y partidas.</li><li>Utilizar el cuaderno para reclamos extensos o ataques; se evita anotando hechos y remitiendo el sustento en carta formal.</li><li>Dejar hojas en blanco o enmendaduras; se evita respetando las reglas de llenado del contrato y de la norma.</li></ul>' },
+    { h: 'Ejemplo', html: '<p>En una obra vial ilustrativa, el residente anota el día 15 que una tubería de agua no prevista en el expediente técnico impide excavar entre las progresivas 1+200 y 1+260. Indica que la partida de excavación de la ruta crítica está detenida, anexa una fotografía y solicita instrucciones. El supervisor responde el mismo día que se coordina con la empresa de servicios. Las anotaciones se repiten hasta que el frente se libera. Los datos son ilustrativos; el efecto en el plazo se determinaría con el análisis de la ruta crítica.</p>' },
+    { h: 'Practica', html: '<p>Redacta tres anotaciones de cuaderno de obra sobre un mismo hecho: la ocurrencia, el seguimiento a los tres días y el cierre. Revisa que cada una tenga fecha, partida, causa y efecto.</p>' }
+  ],
+  keypoints: [
+    'El cuaderno recoge hechos relevantes, instrucciones, consultas, respuestas y ocurrencias; su valor probatorio depende de que las anotaciones sean oportunas, claras y firmadas por quienes corresponde.',
+    'Cada anotación debe indicar fecha, hecho concreto, partida o frente afectado, causa cuando se conoce y consecuencia esperada en plazo o costo.',
+    'Las anotaciones que afectan el plazo, como lluvias, interferencias o falta de terreno, deben hacerse el día del hecho y repetirse mientras dure el impacto.',
+    'Las discrepancias y reservas deben quedar registradas de inmediato; callar en el cuaderno puede leerse luego como conformidad.',
+    'Quién puede anotar, quién firma y cómo se abre y cierra el cuaderno lo definen la Ley de Contrataciones Públicas y su Reglamento vigentes y el contrato de obra.',
+    'Las fotografías, los planos y los ensayos referidos en una anotación fortalecen el registro, pero no lo reemplazan.'
+  ],
+  flashcards: [
+    { q: '¿Cuándo debe anotarse un evento que afecta el plazo?', a: 'El día en que ocurre y mientras dure el impacto. La anotación oportuna y sostenida da credibilidad al hecho y a su duración.' },
+    { q: '¿Qué caracteriza a una buena anotación?', a: 'Ser concreta, con fecha, partida, causa y efecto. La precisión permite verificar el hecho y vincularlo con plazo o costo.' },
+    { q: '¿Cuál es un primer paso al aplicar «El cuaderno de obra como prueba viva»?', a: 'Redactar cada anotación con el orden: qué ocurrió, dónde, cuándo, quién, por qué y qué efecto tiene.' },
+    { q: '¿Qué error común conviene evitar en «El cuaderno de obra como prueba viva»?', a: 'Anotar días después de los hechos; se evita registrando el mismo día.' },
+    { q: 'Una idea clave de «El cuaderno de obra como prueba viva»', a: 'El cuaderno recoge hechos relevantes, instrucciones, consultas, respuestas y ocurrencias; su valor probatorio depende de que las anotaciones sean oportunas, claras y firmadas por quienes corresponde.' }
+  ],
+  quiz: [
+    { q: '¿Cuándo debe anotarse un evento que afecta el plazo?', opts: ['Al final de la obra', 'El día en que ocurre y mientras dure el impacto', 'Solo si la entidad lo solicita', 'Cuando se presente la liquidación'], correct: 1, why: 'La anotación oportuna y sostenida da credibilidad al hecho y a su duración.' },
+    { q: '¿Qué caracteriza a una buena anotación?', opts: ['Ser extensa y con opiniones', 'Ser general para evitar compromisos', 'Reemplazar a las cartas formales', 'Ser concreta, con fecha, partida, causa y efecto'], correct: 3, why: 'La precisión permite verificar el hecho y vincularlo con plazo o costo.' },
+    { q: '¿Cuál de estas conductas es un error que conviene evitar según «El cuaderno de obra como prueba viva»?', opts: ['Redactar cada anotación con el orden', 'Indicar de forma expresa si el hecho afecta ruta crítica, costo, calidad o seguridad', 'Registrar las consultas al proyectista o a la entidad con número y fecha, y anotar cuándo se responden', 'Usar frases genéricas como hubo demoras; se evita precisando causa, duración y partidas'], correct: 3, why: 'Es un error frecuente: Usar frases genéricas como hubo demoras; se evita precisando causa, duración y partidas.' }
+  ]
+});

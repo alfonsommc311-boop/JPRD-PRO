@@ -1,0 +1,34 @@
+Lesson.start({
+  id: 'independencia-e-imparcialidad', area: 'Conformación de la Junta', areaIcon: '👥', icon: '👥',
+  title: 'Independencia e imparcialidad',
+  subtitle: 'La independencia y la imparcialidad son la base de la confianza en la Junta.',
+  norma: 'Verificar la norma vigente y el expediente técnico aprobado.',
+  intro: '<p>La independencia y la imparcialidad son la base de la confianza en la Junta. Un miembro debe ser y parecer ajeno a los intereses de las partes durante todo el encargo.</p>',
+  sections: [
+    { h: 'Ideas clave', html: '<ul><li>Independencia es ausencia de vínculos objetivos con las partes: relaciones económicas, laborales o de asesoría, presentes o recientes.</li><li>Imparcialidad es la actitud mental de decidir con base en los hechos, la prueba y el contrato, sin favorecer a nadie.</li><li>No basta ser imparcial: también hay que parecerlo, porque la apariencia de sesgo puede afectar la confianza y la aceptación de lo que se recomiende.</li><li>Los vínculos previos con la entidad, el contratista o el supervisor deben evaluarse con criterio; su alcance concreto se verifica en el reglamento y en las reglas del organismo.</li><li>La independencia debe mantenerse durante toda la obra: nuevos encargos o relaciones pueden afectarla.</li><li>Comunicarse con una sola parte sobre el fondo de la controversia, sin conocimiento de la otra, compromete la imparcialidad.</li><li>Verificar la norma vigente y el expediente técnico aprobado.</li></ul>' },
+    { h: 'Cómo aplicarlo', html: '<ol><li>Revisar antes de aceptar el cargo todos los vínculos profesionales y económicos con las partes y con el supervisor.</li><li>Registrar por escrito cualquier relación relevante, aunque parezca menor.</li><li>Firmar la declaración de independencia según el formato del organismo que administra la Junta.</li><li>Establecer una regla personal: toda comunicación sobre el fondo se hace con copia a ambas partes.</li><li>Reevaluar periódicamente la situación, especialmente ante nuevos encargos profesionales.</li><li>Abstenerse o informar si surge una circunstancia que pueda generar dudas razonables.</li></ol>' },
+    { h: 'Errores comunes', html: '<ul><li>Creer que un vínculo antiguo no importa: se evita informándolo y dejando que las partes lo valoren.</li><li>Aceptar invitaciones o atenciones de una sola parte: se corrige declinándolas o extendiéndolas de modo transparente.</li><li>Conversar informalmente del caso con un solo lado: se evita centralizando toda comunicación con copia a ambos.</li><li>Confundir experiencia con sesgo: haber trabajado en obras públicas no descalifica, pero sí ciertos vínculos actuales.</li></ul>' },
+    { h: 'Ejemplo', html: '<p>Un ingeniero designado a una Junta recuerda que hace dos años su consultora hizo una asesoría breve para el contratista en otra obra. Aunque terminó y fue pequeña, la informa por escrito antes de aceptar. Ambas partes la evalúan y deciden, según el reglamento aplicable, si continúa. Esta situación es ilustrativa: el tratamiento exacto de vínculos previos debe verificarse en el reglamento y en el organismo que administra la Junta.</p>' },
+    { h: 'Practica', html: '<p>Elabora una lista de cinco preguntas de autochequeo que un profesional debería responder antes de aceptar un cargo en una Junta. Marca cuáles reportarías siempre por escrito.</p>' }
+  ],
+  keypoints: [
+    'Independencia es ausencia de vínculos objetivos con las partes: relaciones económicas, laborales o de asesoría, presentes o recientes.',
+    'Imparcialidad es la actitud mental de decidir con base en los hechos, la prueba y el contrato, sin favorecer a nadie.',
+    'No basta ser imparcial: también hay que parecerlo, porque la apariencia de sesgo puede afectar la confianza y la aceptación de lo que se recomiende.',
+    'Los vínculos previos con la entidad, el contratista o el supervisor deben evaluarse con criterio; su alcance concreto se verifica en el reglamento y en las reglas del organismo.',
+    'La independencia debe mantenerse durante toda la obra: nuevos encargos o relaciones pueden afectarla.',
+    'Comunicarse con una sola parte sobre el fondo de la controversia, sin conocimiento de la otra, compromete la imparcialidad.'
+  ],
+  flashcards: [
+    { q: '¿Qué distingue la independencia de la imparcialidad?', a: 'La independencia se refiere a la ausencia de vínculos objetivos y la imparcialidad a la actitud al decidir. Una es ausencia de vínculos; la otra, actitud de decisión con base en hechos y contrato.' },
+    { q: 'Un miembro conversa por teléfono con el contratista sobre el fondo de una disputa sin avisar a la entidad. ¿Qué principio se compromete?', a: 'La igualdad de trato y la imparcialidad. Comunicarse con una sola parte sobre el fondo genera desigualdad y apariencia de sesgo.' },
+    { q: '¿Cuál es un primer paso al aplicar «Independencia e imparcialidad»?', a: 'Revisar antes de aceptar el cargo todos los vínculos profesionales y económicos con las partes y con el supervisor.' },
+    { q: '¿Qué error común conviene evitar en «Independencia e imparcialidad»?', a: 'Creer que un vínculo antiguo no importa: se evita informándolo y dejando que las partes lo valoren.' },
+    { q: 'Una idea clave de «Independencia e imparcialidad»', a: 'Independencia es ausencia de vínculos objetivos con las partes: relaciones económicas, laborales o de asesoría, presentes o recientes.' }
+  ],
+  quiz: [
+    { q: '¿Qué distingue la independencia de la imparcialidad?', opts: ['La independencia se refiere a la ausencia de vínculos objetivos y la imparcialidad a la actitud al decidir', 'Son exactamente lo mismo', 'La imparcialidad solo aplica al abogado', 'La independencia solo se exige al inicio'], correct: 0, why: 'Una es ausencia de vínculos; la otra, actitud de decisión con base en hechos y contrato.' },
+    { q: 'Un miembro conversa por teléfono con el contratista sobre el fondo de una disputa sin avisar a la entidad. ¿Qué principio se compromete?', opts: ['La confidencialidad únicamente', 'La igualdad de trato y la imparcialidad', 'Ninguno, es práctica común', 'La cuantificación de la pretensión'], correct: 1, why: 'Comunicarse con una sola parte sobre el fondo genera desigualdad y apariencia de sesgo.' },
+    { q: '¿Cuál de estas conductas es un error que conviene evitar según «Independencia e imparcialidad»?', opts: ['Revisar antes de aceptar el cargo todos los vínculos profesionales y económicos con las partes y con el supervisor', 'Registrar por escrito cualquier relación relevante, aunque parezca menor', 'Conversar informalmente del caso con un solo lado', 'Firmar la declaración de independencia según el formato del organismo que administra la Junta'], correct: 2, why: 'Es un error frecuente: Conversar informalmente del caso con un solo lado: se evita centralizando toda comunicación con copia a ambos.' }
+  ]
+});

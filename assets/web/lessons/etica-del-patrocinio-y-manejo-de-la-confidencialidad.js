@@ -1,0 +1,34 @@
+Lesson.start({
+  id: 'etica-del-patrocinio-y-manejo-de-la-confidencialidad', area: 'Sustento legal y estrategia', areaIcon: '✍️', icon: '✍️',
+  title: 'Ética del patrocinio y manejo de la confidencialidad',
+  subtitle: 'Quien patrocina o asesora en una disputa de obra debe actuar con honestidad, lealtad al cliente y respeto a la confidencialidad.',
+  norma: 'Verificar la norma vigente y el expediente técnico aprobado.',
+  intro: '<p>Quien patrocina o asesora en una disputa de obra debe actuar con honestidad, lealtad al cliente y respeto a la confidencialidad. La ética protege la credibilidad del profesional y la integridad del procedimiento ante la Junta.</p>',
+  sections: [
+    { h: 'Ideas clave', html: '<ul><li>El patrocinio ético exige informar al cliente de forma realista sobre fortalezas y debilidades, sin prometer resultados.</li><li>No se debe presentar hechos falsos, documentos alterados ni informes técnicos que no reflejen la realidad de la obra; hacerlo destruye el caso y expone al profesional.</li><li>La confidencialidad abarca información de la entidad, del contratista, de la Junta y de sus deliberaciones; solo se comparte lo necesario y con autorización.</li><li>Se deben evitar los conflictos de interés: asesorar a ambas partes, o haber participado en la obra en un rol incompatible, exige revelación y, a veces, abstención.</li><li>El trato a la contraparte y a los miembros de la Junta debe ser respetuoso; los ataques personales no sustituyen la argumentación.</li><li>Los colegios profesionales tienen códigos de ética aplicables al ingeniero, arquitecto y abogado; se consultan por nombre y se verifican en su versión vigente. Verificar la norma vigente y el expediente técnico aprobado.</li></ul>' },
+    { h: 'Cómo aplicarlo', html: '<ol><li>Realizar una revisión de conflictos de interés antes de aceptar el caso.</li><li>Explicar al cliente el alcance del encargo, los riesgos y la incertidumbre del resultado.</li><li>Establecer quién accede a la información y cómo se resguarda.</li><li>Verificar la autenticidad y trazabilidad de cada documento que se presentará.</li><li>Consultar al cliente antes de compartir información sensible con terceros.</li><li>Documentar decisiones éticas relevantes, como abstenciones o revelaciones.</li></ol>' },
+    { h: 'Errores comunes', html: '<ul><li>Prometer que se ganará: contradice el deber de información honesta; explica escenarios.</li><li>Filtrar información a la prensa o a terceros: viola la confidencialidad; canaliza comunicaciones.</li><li>Callar un vínculo previo con una de las partes: revélalo por escrito.</li><li>Presentar un informe técnico sin verificar los datos: revisa y firma solo lo que puedas sustentar.</li></ul>' },
+    { h: 'Ejemplo', html: '<p>Ejemplo ilustrativo: un ingeniero que fue supervisor de una obra recibe la oferta de asesorar al contratista en una disputa sobre esa misma obra. Antes de aceptar, analiza su rol anterior y advierte un posible conflicto de interés, pues conoce información reservada de la entidad. Consulta el código de ética de su colegio profesional y decide declinar el encargo, explicando los motivos. Más tarde, en otra obra, sí acepta un caso, informa al cliente que no puede prometer un resultado y establece un protocolo de confidencialidad para los documentos.</p>' },
+    { h: 'Practica', html: '<p>Redacta una lista de cinco preguntas de control ético que harías antes de aceptar el patrocinio de una disputa. Incluye conflictos de interés, confidencialidad y veracidad de la prueba, y anota a qué código o norma acudirías para verificarlas.</p>' }
+  ],
+  keypoints: [
+    'El patrocinio ético exige informar al cliente de forma realista sobre fortalezas y debilidades, sin prometer resultados.',
+    'No se debe presentar hechos falsos, documentos alterados ni informes técnicos que no reflejen la realidad de la obra; hacerlo destruye el caso y expone al profesional.',
+    'La confidencialidad abarca información de la entidad, del contratista, de la Junta y de sus deliberaciones; solo se comparte lo necesario y con autorización.',
+    'Se deben evitar los conflictos de interés: asesorar a ambas partes, o haber participado en la obra en un rol incompatible, exige revelación y, a veces, abstención.',
+    'El trato a la contraparte y a los miembros de la Junta debe ser respetuoso; los ataques personales no sustituyen la argumentación.',
+    'Los colegios profesionales tienen códigos de ética aplicables al ingeniero, arquitecto y abogado; se consultan por nombre y se verifican en su versión vigente. Verificar la norma vigente y el expediente técnico aprobado.'
+  ],
+  flashcards: [
+    { q: '¿Qué debe hacer un asesor ante un posible conflicto de interés?', a: 'Revelarlo y evaluar si corresponde abstenerse. La revelación y, si procede, la abstención protegen la integridad del proceso.' },
+    { q: 'Sobre los resultados de un caso, el profesional debe…', a: 'Informar con realismo, sin garantizar resultados. La decisión depende de la prueba y del criterio de quien decide; no se garantiza.' },
+    { q: '¿Cuál es un primer paso al aplicar «Ética del patrocinio y manejo de la confidencialidad»?', a: 'Realizar una revisión de conflictos de interés antes de aceptar el caso.' },
+    { q: '¿Qué error común conviene evitar en «Ética del patrocinio y manejo de la confidencialidad»?', a: 'Prometer que se ganará: contradice el deber de información honesta; explica escenarios.' },
+    { q: 'Una idea clave de «Ética del patrocinio y manejo de la confidencialidad»', a: 'El patrocinio ético exige informar al cliente de forma realista sobre fortalezas y debilidades, sin prometer resultados.' }
+  ],
+  quiz: [
+    { q: '¿Qué debe hacer un asesor ante un posible conflicto de interés?', opts: ['Ocultarlo si el caso es lucrativo', 'Revelarlo y evaluar si corresponde abstenerse', 'Esperar a que la contraparte lo descubra', 'Delegarlo a un asistente sin informar'], correct: 1, why: 'La revelación y, si procede, la abstención protegen la integridad del proceso.' },
+    { q: 'Sobre los resultados de un caso, el profesional debe…', opts: ['Garantizarlos si la prueba parece sólida', 'Prometer que ganará siempre', 'Informar con realismo, sin garantizar resultados', 'Evitar hablar del tema'], correct: 2, why: 'La decisión depende de la prueba y del criterio de quien decide; no se garantiza.' },
+    { q: '¿Cuál de estas conductas es un error que conviene evitar según «Ética del patrocinio y manejo de la confidencialidad»?', opts: ['Filtrar información a la prensa o a terceros', 'Realizar una revisión de conflictos de interés antes de aceptar el caso', 'Explicar al cliente el alcance del encargo, los riesgos y la incertidumbre del resultado', 'Establecer quién accede a la información y cómo se resguarda'], correct: 0, why: 'Es un error frecuente: Filtrar información a la prensa o a terceros: viola la confidencialidad; canaliza comunicaciones.' }
+  ]
+});
